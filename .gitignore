@@ -1,4 +1,6 @@
 target/
+.idea/
+spark-resource-metric.iml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
